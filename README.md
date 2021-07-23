@@ -1,1 +1,2 @@
-# Lexical-Analyzer-for-BigAdd-Language
+# Lexical Analyzer for BigAdd Language
+Ege University Programming Languages Project-1
